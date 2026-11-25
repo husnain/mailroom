@@ -1,16 +1,14 @@
-Subject: The Steep Club opens Monday
-Preview: Your monthly tea box, chosen by our blenders. Founding members get the first box free.
+Subject: Updates from MezbanPOS
+Preview: News and updates from MezbanPOS.
 
 Hi {{first_name}},
 
-You joined our waitlist because you love good tea. On Monday, The Steep Club opens: a box of three loose-leaf teas each month, picked by our blenders and sent to your door.
+Thanks for subscribing to MezbanPOS updates. We'll share the latest news and information here.
 
-As a founding member, your first box is on us. Pick your teas, skip a month whenever you like, and cancel in two clicks.
+[Visit MezbanPOS](https://mezbanpos.com)
 
-[Join The Steep Club](https://mezbanpos.com)
-
-Steep well,
+Best,
 The MezbanPOS team
 
-You're getting this because you joined the MezbanPOS waitlist.
+You're receiving this because you subscribed to MezbanPOS updates.
 MezbanPOS, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
