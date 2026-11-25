@@ -10,7 +10,7 @@ It reads the subscribers, checks an issue, and sends it to a practice mail serve
 - Use uv for everything: running code, adding packages, running tests.
 - Never use a real person's email address. Use addresses at @example.com, and @resend.dev for practice sends.
 - Commit and push after every step.
-- Behaviors first. I give the expected answers, you write them as checks, show them failing, then write the code.
+- Behaviors first. I give the expected answers, you write them as pytest tests, show them failing, then write the code.
 - When something breaks, show the full error before changing anything.
 
 ## How I learn
