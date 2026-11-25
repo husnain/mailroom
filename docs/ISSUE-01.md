@@ -7,7 +7,7 @@ You joined our waitlist because you love good tea. On Monday, The Steep Club ope
 
 As a founding member, your first box is on us. Pick your teas, skip a month whenever you like, and cancel in two clicks.
 
-[Join The Steep Club](https://mezbanpos.com/steep-club)
+[Join The Steep Club](https://mezbanpos.com)
 
 Steep well,
 The MezbanPOS team
