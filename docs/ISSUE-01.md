@@ -1,11 +1,11 @@
-Subject: Updates from MezbanPOS
-Preview: News and updates from MezbanPOS.
+Subject: Restaurant management with MezbanPOS
+Preview: A restaurant management system for your day-to-day operations.
 
 Hi {{first_name}},
 
-Thanks for subscribing to MezbanPOS updates. We'll share the latest news and information here.
+Running a restaurant takes coordination. MezbanPOS is a restaurant management system designed to bring your day-to-day operations together in one place.
 
-[Visit MezbanPOS](https://mezbanpos.com)
+[Learn more about MezbanPOS](https://mezbanpos.com)
 
 Best,
 The MezbanPOS team
